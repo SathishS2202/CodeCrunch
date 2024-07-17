@@ -1,0 +1,153 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+}
+
+.container {
+    font-weight: 300;
+}
+
+h1 {
+    font-weight: 350;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand img {
+    height: 40px; 
+}
+
+.navbar-nav .nav-item:hover {
+    background-color: green;
+}
+
+.navbar-nav .nav-link:hover {
+    color: whitesmoke;
+}
+
+.navbar-nav .nav-link {
+    margin-right: 10px;
+}
+
+.navbar .form-control {
+    width: 200px;
+}
+
+.navbar .btn-outline-success {
+    margin-left: 5px;
+}
+
+.navbar .btn-outline-primary, .navbar .btn-primary {
+    margin-left: 10px;
+}
+
+.center-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    text-align: center;
+}
+
+.header {
+    font-size: 50px !important;
+    font-weight: bolder;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+}
+
+.para1 {
+    color: goldenrod;
+    font-weight: 700;
+    margin-top: 30px !important;
+}
+
+h1, h5 {
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.search-bar {
+    width: 100%;
+    max-width: 500px;
+    margin-top: 20px;
+}
+
+.search-bar input {
+    width: 80%;
+    margin-right: 10px;
+    padding: 10px;
+    background-color: white; 
+    color: black; 
+}
+
+.search-bar button {
+    padding: 10px;
+    background-color: green;
+    border: none;
+    color: white;
+}
+
+.search-bar button:hover {
+    background-color: darkgreen;
+}
+
+.mt-3 {
+    color: whitesmoke;
+    font-weight: 800;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.card-body {
+    background-color: #333;
+    color:whitesmoke;
+}
+
+.card-title {
+    color: white;
+}
+
+.card .btn-primary {
+    background-color: green;
+    border: none;
+}
+
+.card .btn-primary:hover {
+    background-color: darkgreen;
+}
+
+.form {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 5px;
+    color: whitesmoke;
+}
+
+form .form-label {
+    color: #FFF4A3;
+}
+
+form .btn-primary {
+    background-color: green;
+    border: none;
+}
+
+form .btn-primary:hover {
+    background-color: darkgreen;
+}
+.ourmission{
+    color: whitesmoke;
+
+}
+.About{
+    color:whitesmoke;
+}
